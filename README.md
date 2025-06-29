@@ -8,7 +8,19 @@ Este repositorio contiene un conjunto de actividades realizadas para el tema de 
 
 GITHUB: https://github.com/nanarosaaaaa/nataly_cruz_serrato13.git
 
-SITIO WEB:
+SITIOS WEB:
+
+https://nanarosaaaaa.github.io/actividad-1/
+https://nanarosaaaaa.github.io/actividad-2/
+https://nanarosaaaaa.github.io/actividad-3/
+https://nanarosaaaaa.github.io/actividad-4/
+https://nanarosaaaaa.github.io/actividad-5/
+https://nanarosaaaaa.github.io/actividad-6/
+https://nanarosaaaaa.github.io/actividad-7/
+https://nanarosaaaaa.github.io/actividad-8/
+https://nanarosaaaaa.github.io/actividad-9/
+https://nanarosaaaaa.github.io/actividad-10/
+https://nanarosaaaaa.github.io/actividad-10-1/
 
 ## EVIDENCIAS:
 ![image](https://github.com/user-attachments/assets/81ce28ba-201f-43fe-a0bb-09678ee69e73)
