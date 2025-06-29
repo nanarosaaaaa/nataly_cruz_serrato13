@@ -3,24 +3,11 @@
 Este repositorio contiene un conjunto de actividades realizadas para el tema de introducción a JavaScript. Cada actividad está organizada en carpetas/archivos separados, e incluye su archivo HTML y el script JS correspondiente.
 
 ## 📂 ESTRUCTURA DEL PROYECTO:
-/nataly_cruz_serrato13/
-│
-├── actividad1/
-│ ├── index.html
-│ └── script.js
-│
-├── actividad2/
-│ ├── index.html
-│ └── script.js
-│
-├── actividad3/
-│ ├── index.html
-│ └── script.js
-│
-... (y así hasta la actividad 10)
 
 ## LINKS:
-GITHUB:
+
+GITHUB: https://github.com/nanarosaaaaa/nataly_cruz_serrato13.git
+
 SITIO WEB:
 
 ## EVIDENCIAS:
