@@ -11,15 +11,25 @@ GITHUB: https://github.com/nanarosaaaaa/nataly_cruz_serrato13.git
 SITIOS WEB:
 
 https://nanarosaaaaa.github.io/actividad-1/
+
 https://nanarosaaaaa.github.io/actividad-2/
+
 https://nanarosaaaaa.github.io/actividad-3/
+
 https://nanarosaaaaa.github.io/actividad-4/
+
 https://nanarosaaaaa.github.io/actividad-5/
+
 https://nanarosaaaaa.github.io/actividad-6/
+
 https://nanarosaaaaa.github.io/actividad-7/
+
 https://nanarosaaaaa.github.io/actividad-8/
+
 https://nanarosaaaaa.github.io/actividad-9/
+
 https://nanarosaaaaa.github.io/actividad-10/
+
 https://nanarosaaaaa.github.io/actividad-10-1/
 
 ## EVIDENCIAS:
